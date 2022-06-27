@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  border: 1px solid #d7dfe9;
+  display: flex;
+  justify-content: space-around;
+}
+.list-title {
+  font-size: 14px;
+  color: #7e858e;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.delete-icon {
+  width: 25px;
+  height: 25px;
+}
+.delete-btn {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
